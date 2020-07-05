@@ -20,7 +20,7 @@
     <br>
     <br>
     Deskriptif tugas uts:<br>
-    Deskriptif tugas uts saya adalah membuat program java sederhana Loket Pemesanan Tiket<br>
+    Deskriptif Tugas UTS Sya Adalah Membuat Program Java Sederhana Loket Pemesanan Tiket<br>
     Tujuan Saya Membuat Progam ini Untuk Mempermudah Pekerjaan Pemesanan Tiket
  
   </body>

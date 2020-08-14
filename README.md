@@ -5,7 +5,7 @@
   </head>
   <body>
     <font size="15">Deskripsi Tugas</font><br>
-     Seluruh tugas saya berada di <u>Srg</u><br>
+     Seluruh tugas saya berada di <u>Src</u><br>
     Tugas uts saya berada di <u>Pertemuan7</u><br>
     <font size="10">Tugas input output :</font><br>
     Tugas BufferedReader bernama Pertemuan4<br>
